@@ -4,7 +4,7 @@ Nice Shop is an online store for phones, tablets and accessories. Users can brow
 
 ## Live Preview
 
-[https://artembaranovsky1.github.io/Nice-Shop](https://artembaranovsky1.github.io/Nice-Shop)
+[Link] (https://artembaranovsky1.github.io/react_phone-catalog)
 
 ## Technologies Used
 
